@@ -212,5 +212,32 @@ print("Hola mundo")
 <!-- Ahora si pasas el ratón por encima de la foto te sale una eqtiqueta con el texto que insertes -->
 ![Logo de everis](https://www.fororecursoshumanos.com/wp-content/uploads/2017/03/Everis.jpg "Este es el clásico logo de Everis")
 
-<!-- Por imagen local en el proyecto -->
+
 ![Portatil de everis](portatil.jpg "Este es el portátil de Everis que se da por defecto a sus empleados")
+
+<!-- Markdown con Github -->
+
+<!-- Tutum (Lista con items marcados o no), en este visualizador no se ve -->
+
+<!-- Si se pone [x] significa el elemento esta marcado o realizado es decir que tiene un check, en cambio [ ] significa que no se marcado o no realizado es decir no tiene un check -->
+
+* [x] Tarea 1
+* [ ] Tarea 2
+* [ ] Tarea 3
+* [x] Tarea 4
+
+<!-- Para mencionar a un usuario de Github, es decir cuando suba el repositorio dicho usuario (el que aparezca despues del arroba) recibira una notificación -->
+
+@nmendeli89
+
+<!-- Emoji -->
+
+<!-- Simplemente es buscar el emoji que quieras en la web https://gist.github.com/rxaviers/7360908 o buscando github emoji o github emoji markdown y copiar y pegar el codigo que te facilite, sin requerir nada mas (todos empiezan y terminan por :) -->
+
+:smiley:
+
+:sweat_smile:
+
+:yum:
+
+:+1:
