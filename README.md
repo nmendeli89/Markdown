@@ -241,3 +241,6 @@ print("Hola mundo")
 :yum:
 
 :+1:
+
+<!-- Para saber más acceda a https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet o simplemente busque github markdown -->
+Para saber más clique [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
