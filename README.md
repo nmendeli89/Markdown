@@ -24,6 +24,8 @@ Esto es un texto en **negrita**
 Este es un texto ~~tachado~~
 
 <!-- Lista desordenada -->
+
+<!-- Hay de dos maneras de hacerlo, con un asterisco * o con un más + -->
 * Manzana
 * Naranja
 * Plátano
