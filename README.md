@@ -30,6 +30,12 @@ Este es un texto ~~tachado~~
 * Pera
 * Uva
 
++ Manzana
++ Naranja
++ Plátano
++ Pera
++ Uva
+
 <!-- Lista ordenada -->
 1. Manzana
 2. Naranja
