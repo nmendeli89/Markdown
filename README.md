@@ -252,3 +252,15 @@ print("Hola mundo")
 
 <!-- Para saber más acceda a https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet o simplemente busque github markdown -->
 Para saber más clique [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+$\leftarrow$
+
+$\rightarrow$
+
+$\leftrightarrow$
+
+$\Leftarrow$
+
+$\Rightarrow$
+
+$\Leftrightarrow$
